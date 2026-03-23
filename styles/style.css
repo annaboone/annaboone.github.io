@@ -2,7 +2,9 @@
 
 /* Hero Section */
 .hero-section {
-    background: black;
+    background: url(../images/catkeyboard.webp);
+    background-size: cover;
+    background-position: 50% 50%;
     height: 100vh;
     display: flex;
     align-items: center;
